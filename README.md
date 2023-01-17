@@ -1,1 +1,1 @@
-# goph420-w2023-lab00-stJL
+# GOPH 420 -Inversion and Parameter Estimation for Geophysicists
